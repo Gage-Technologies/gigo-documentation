@@ -45,7 +45,7 @@ You can! Any user can disable Automatic Git Control by simply:
 
 This will disable Automatic Git Control, however, users that disable Automatic Git Control must manage their own VCS within the workspace. If the user disables Automatic Git Control but do not push their changes, these changes will be lost after 24hrs when the workspace is deleted.
 
-For more information on workspace lifespans see the [Workspace Overview Documentation](documentation/workspace/workspace_overview_1.md) .
+For more information on workspace lifespans see the [Workspace Overview Documentation](../workspace/workspace_overview_1.md) .
 
 
 
