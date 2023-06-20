@@ -29,6 +29,6 @@ containers:
           - subnet: 172.28.0.0/16
 ```
 
-![workspace_config_additional_docker_services.svg](workspace_config_additional_docker_services.svg)
+![workspace_config_additional_docker_services.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/docker_service/workspace_config_additional_docker_services.svg)
 
 The network section of the block determines what address to run the service on. In the example PostgresSQL is running on  172.28.1.2.  These optional parameters allow for a wide range of different uses and provide users with much more flexibility to run more advanced projects with larger dependencies.

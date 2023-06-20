@@ -14,15 +14,15 @@ The Gigo Extension offers an AFK Setting that will allow users to be inactive in
 
 >Simply navigate to the "Stopwatch Icon" on the sidebar.
 
->![extension_afk_setting_1.svg](extension_afk_setting_1.svg)
+>![extension_afk_setting_1.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/afk_setting/extension_afk_setting_1.svg)
 
 >Click on the  "Enable AFK" button.
 
->![extension_afk_setting_2.svg](extension_afk_setting_2.svg)
+>![extension_afk_setting_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/afk_setting/extension_afk_setting_2.svg)
 
 >A time limit will display how much longer a user ma be AFK in a workspace.
 
->![extension_afk_setting_3.svg](extension_afk_setting_3.svg)
+>![extension_afk_setting_3.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/afk_setting/extension_afk_setting_3.svg)
 
 
 If you need to be inactive for more than an hour, don't worry! You can always restart the workspace once you return and your work will have been saved with the Automatic Git Control System.

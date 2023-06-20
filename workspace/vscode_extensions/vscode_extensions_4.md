@@ -18,7 +18,7 @@ vscode:
       - ms-python.python
 ```
 
-![workspace_config_vscode_extension.png.svg](workspace_config_vscode_extension.png.svg)
+![workspace_config_vscode_extension.png.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/vscode_extensions/workspace_config_vscode_extension.png.svg)
 
 Extensions can be included for a varierty of reasons and are generally recommended for any public templates to ease users into using them in their projects.
 

@@ -24,7 +24,7 @@ resources:
    disk: 10
 ```
 
-![workspace_config_resource_block.png.svg](workspace_config_resource_block.png.svg)
+![workspace_config_resource_block.png.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/resources_specified/workspace_config_resource_block.png.svg)
 
 </br>
 

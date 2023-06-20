@@ -19,7 +19,7 @@ Since Code Teacher is already aware of the user's environment it can provide spe
 
 Gigo Code Teacher is very easy to use. It's as simple as asking Code Teacher a question by clicking the Code Teacher Icon shown in th image below.
 
-![extension_code_teacher_1.svg](extension_code_teacher_1.svg)
+![extension_code_teacher_1.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_1.svg)
 
 </br>
 
@@ -31,7 +31,7 @@ Once you click this icon a chat window will open where you can ask Code Teacher 
 
 Stuck on a problem? Ask Code Teacher! It's simple really. Code Teacher has knowledge on a vast variety of topics and is quite capable of problem-solving.
 
-![extension_code_teacher_2.svg](extension_code_teacher_2.svg)
+![extension_code_teacher_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_2.svg)
 
 
 ### **Context Based Conversations**
@@ -39,7 +39,7 @@ Stuck on a problem? Ask Code Teacher! It's simple really. Code Teacher has knowl
 When a user writes code in a workspace, this code is then fed (in the background) into Code Teacher. This allows Code Teacher to be "context aware" of how the user writes code and what they are working on.
 
 
-![extension_code_teacher_2.svg](extension_code_teacher_3.svg)
+![extension_code_teacher_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_3.svg)
 
 In the example above we asked Code Teacher to explain how the "FollowUser" function works in the GIGO codebase. It then explained the steps that the function performs in order.
 
@@ -47,7 +47,7 @@ In the example above we asked Code Teacher to explain how the "FollowUser" funct
 
 Code Teacher will retain a "memory" of a previous message within the same conversation. This gives users the option to "speak freely" with Code Teacher.
 
-![extension_code_teacher_3.svg](extension_code_teacher_4.svg)
+![extension_code_teacher_3.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_4.svg)
 
 In this example, after we had asked Code Teacher to explain the "FollowUser" function in the previous example, we then asked "How is FollowUser used in the api?". Code Teacher then used the context of the previous question to inform its answer of our current question.
 

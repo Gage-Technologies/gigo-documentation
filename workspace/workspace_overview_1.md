@@ -21,7 +21,7 @@ needed to run the project.
 ### **Architecture**
 
 
-![GIGO Workspace Overview-transparent.svg](GIGO%20Workspace%20Overview-transparent.svg)
+![GIGO Workspace Overview-transparent.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/GIGO%20Workspace%20Overview-transparent.svg)
 
 <sub>*the above illustration shows the basic architecture of the
 <sub>workspace system
@@ -31,12 +31,12 @@ needed to run the project.
 
 A workspace consists of a *workspace configuration* file that details the
 following:
-- [**Base Docker Image**](base_docker_image/base_docker_image_2.md)
-- [Resources Specified](resources_specified/resources_specified_3.md) (allocated resources for environment)
-- [Vscode Extensions](vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
-- [Additional Docker Services](docker_service/additional_docker_service_5.md) / Images (e.x databases, web
+- [**Base Docker Image**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/base_docker_image/base_docker_image_2.md)
+- [**Resources Specified**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/resources_specified/resources_specified_3.md) (allocated resources for environment)
+- [**Vscode Extensions**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
+- [**Additional Docker Services**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/docker_service/additional_docker_service_5.md) / Images (e.x databases, web
   services, additional software, etc.) *
-- [Command Line Arguments](command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
+- [**Command Line Arguments**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
   started) *
 
 <sup><sub>the above bullet points marked with * indicate an optional
@@ -99,7 +99,7 @@ a project
 
 </br>
 
-![workspace_config.png](workspace_config.png)
+![workspace_config.png](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/workspace_config.png)
 
 <sub> *by selecting Create Public Template after choosing custom a user
 <sub>can publish their configuration

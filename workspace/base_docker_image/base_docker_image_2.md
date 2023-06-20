@@ -30,7 +30,7 @@ Not all Docker images used in gigo contain an operating system.  If a project  n
 </br>
 
 ### **What Does Using a Base Docker Image Look Like?**
-![workspace_config_base_image.png.svg](workspace_config_base_image.png.svg)
+![workspace_config_base_image.png.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/base_docker_image/workspace_config_base_image.png.svg)
 
 <sub><sup>*this example includes a Base Docker Image that provided by Gigo
 
