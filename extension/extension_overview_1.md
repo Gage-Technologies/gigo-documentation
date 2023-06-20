@@ -12,8 +12,8 @@
 ### **What is the Gigo Extension?**
 The Gigo Extension is designed to assist users with interacting with the features of Gigo.  
 The extension consists of six main components:
-- [Gigo Code Teacher](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_2.md)
-- [Automatic Git Pushes and Commits](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/automatic_git/extension_automatic_git_3.md)
+- [Gigo Code Teacher](documentation/extension/code_teacher/extension_code_teacher_2.md)
+- [Automatic Git Pushes and Commits](documentation/extension/automatic_git/extension_automatic_git_3.md)
 - The Tutorial Viewer
 - The Tutorial Creator
 - The Streak Viewer

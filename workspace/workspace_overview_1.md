@@ -31,12 +31,12 @@ needed to run the project.
 
 A workspace consists of a *workspace configuration* file that details the
 following:
-- [**Base Docker Image**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/base_docker_image/base_docker_image_2.md)
-- [**Resources Specified**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/resources_specified/resources_specified_3.md) (allocated resources for environment)
-- [**Vscode Extensions**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
-- [**Additional Docker Services**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/docker_service/additional_docker_service_5.md) / Images (e.x databases, web
+- [**Base Docker Image**](documentation/workspace/base_docker_image/base_docker_image_2.md)
+- [**Resources Specified**](documentation/workspace/resources_specified/resources_specified_3.md) (allocated resources for environment)
+- [**Vscode Extensions**](documentation/workspace/vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
+- [**Additional Docker Services**](documentation/workspace/docker_service/additional_docker_service_5.md) / Images (e.x databases, web
   services, additional software, etc.) *
-- [**Command Line Arguments**](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
+- [**Command Line Arguments**](documentation/workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
   started) *
 
 <sup><sub>the above bullet points marked with * indicate an optional
