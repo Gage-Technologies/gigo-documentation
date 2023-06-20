@@ -31,7 +31,7 @@ needed to run the project.
 
 A workspace consists of a *workspace configuration* file that details the
 following:
-- [**Base Docker Image**](documentation/workspace/base_docker_image/base_docker_image_2.md)
+- [**Base Docker Image**](../documentation/workspace/base_docker_image/base_docker_image_2.md)
 - [**Resources Specified**](documentation/workspace/resources_specified/resources_specified_3.md) (allocated resources for environment)
 - [**Vscode Extensions**](documentation/workspace/vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
 - [**Additional Docker Services**](documentation/workspace/docker_service/additional_docker_service_5.md) / Images (e.x databases, web
