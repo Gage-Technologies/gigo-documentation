@@ -12,12 +12,11 @@
 ### **What is the Gigo Extension?**
 The Gigo Extension is designed to assist users with interacting with the features of Gigo.  
 The extension consists of six main components:
-- [Gigo Code Teacher](documentation/extension/code_teacher/extension_code_teacher_2.md)
-- [Automatic Git Pushes and Commits](documentation/extension/automatic_git/extension_automatic_git_3.md)
-- The Tutorial Viewer
-- The Tutorial Creator
-- The Streak Viewer
-- The AFK Setting
+- [Gigo Code Teacher](../workspace/extension/code_teacher/extension_code_teacher_2.md)
+- [Automatic Git Pushes and Commits](../workspace/extension/automatic_git/extension_automatic_git_3.md)
+- [The Tutorial Viewer](../workspace/extension/tutorial_viewer/extension_tutorial_viewer_4.md)
+- [The Tutorial Creator](../workspace/extension/tutorial_creator/extension_tutorial_creator_5.md)
+- [The AFK Setting](../workspace/extension/afk_setting/extension_afk_setting_6.md)
 
 </br>
 
