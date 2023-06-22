@@ -36,7 +36,7 @@ following:
 - [**Vscode Extensions**](../workspace/vscode_extensions/vscode_extensions_4.md) (for additional editor support) *
 - [**Additional Docker Services**](../workspace/docker_service/additional_docker_service_5.md) / Images (e.x databases, web
   services, additional software, etc.) *
-- [**Command Line Arguments**](../workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
+- [**Command Line Executions**](../workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
   started) *
 
 <sup><sub>the above bullet points marked with * indicate an optional
@@ -72,7 +72,7 @@ workspaces. So feel free to customize!
 
 ### **Where Did My Stuff Go?**
 
-Workspaces have a lifespan of 24hrs. After 24hrs a workspace will still be available and can be launched but all code that is not stored (committed and pushed) to a VCS (typically git) will be deleted. This also applies to all actions performed in a terminal inside the workspaces. That includes packages installed and file operations. This is why workspace configs are important as it provides a persistent state to re-launch the workspaces in.
+Workspaces are stored for 24hrs after you last login to them. After 24hrs a workspace will still be available and can be launched but all code or environment changes that are not stored (committed and pushed) to a VCS (typically git) will be deleted. This also applies to all actions performed in a terminal inside the workspaces. That includes packages installed and file operations. This is why workspace configs are important as it provides a persistent state to re-launch the workspaces in.
 >The Gigo Extension will automatically push all code/files within the base directory in the workspace. Users can choose to not use this, however, they must manage their VCS themselves. For more information, reference the Gigo  Extension Documentation
 
 

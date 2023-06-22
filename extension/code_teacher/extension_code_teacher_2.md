@@ -9,7 +9,7 @@ The Gigo Teacher is personal tutor designed to help users with all things progra
 
 Code Teacher integrates with the user's workspace and is context-aware. This means that when the user has a question about their project, Code Teacher functions like a tutor, reading their code with them.
 
-This is contrary to the way in which normal AI (Artificial Intelligence) driven code tutors work. Typically, when using an online machine learning tutor, a user must manually input all their code into the system and then ask the system for help. This leads to less accurate results since users cannot provide all relevant information.
+This is contrary to the way in which normal AI (Artificial Intelligence) driven code tutors work. Typically, when using an online AI tutor, a user must manually input all their code into the system and then ask the system for help. This leads to less accurate results since users cannot provide all relevant information.
 
 Since Code Teacher is already aware of the user's environment it can provide specific help to the problems the user has.
 

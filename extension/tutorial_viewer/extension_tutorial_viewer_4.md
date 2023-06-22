@@ -22,7 +22,7 @@ For more information on Project Types check the Project Overview Documentation.
 >![extension_tutorial_viewer_1.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_1.svg)
 
 >This will open the Tutorial Viewer for the tutorials in the current project.
->![extension_tutorial_viewer_2.svg](hhttps://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_2.svg)
+>![extension_tutorial_viewer_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_2.svg)
 
 >To view the next tutorial click the 'Next Tutorial' button.  
 >![extension_tutorial_viewer_3.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_3.svg)

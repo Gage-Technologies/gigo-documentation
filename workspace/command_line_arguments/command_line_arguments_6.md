@@ -1,10 +1,10 @@
-# Command Line Arguments
+# Command Line Executions
 >Installing Additional Dependencies
 
 
 ### **More To Install**
 
-When a user needs to install commands that may not be found in a docker image, or perform file operations inside a workspace, the *exec* block allows user to perform command line arguments for these operations.
+When a user needs to install commands that may not be found in a docker image, or perform file operations inside a workspace, the *exec* block allows user to perform Command Line Executions for these operations.
 
 Here is an example of installing [CoreML](https://developer.apple.com/documentation/coreml) using [*pip*](https://pypi.org/project/pip/):
 
