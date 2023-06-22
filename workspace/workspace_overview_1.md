@@ -23,8 +23,7 @@ needed to run the project.
 
 ![GIGO Workspace Overview-transparent.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/GIGO%20Workspace%20Overview-transparent.svg)
 
-<sub>*the above illustration shows the basic architecture of the
-<sub>workspace system
+<sub>*the above illustration shows the basic architecture of the workspace system
 
 </br>
 
@@ -39,8 +38,7 @@ following:
 - [**Command Line Executions**](../workspace/command_line_arguments/command_line_arguments_6.md) (to be run when docker image is
   started) *
 
-<sup><sub>the above bullet points marked with * indicate an optional
-<sup><sub>addition
+<sub>the above bullet points marked with * indicate an optional addition
 
 >The workspace config is based on a [*`yaml`*](https://www.redhat.com/en/topics/automation/what-is-yaml) format.
 

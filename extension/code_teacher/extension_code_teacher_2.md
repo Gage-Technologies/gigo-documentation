@@ -1,7 +1,7 @@
 # Gigo Code Teacher
 >#### Your own personal tutor.
 
-The Gigo Teacher is personal tutor designed to help users with all things programming. It seamlessly integrates with all code a user writes or interacts with inside the workspace.
+The Gigo Code Teacher is personal tutor designed to help users with all things programming. It seamlessly integrates with all code a user writes or interacts with inside the workspace.
 
 </br>
 

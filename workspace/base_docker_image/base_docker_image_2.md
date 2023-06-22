@@ -1,7 +1,6 @@
 # Base Docker Image
 >When and What To Use
 
-</br>
 
 ### **What Is A Docker Image Anyway?**
 </br>
@@ -13,8 +12,6 @@ platform to build software with. These applications can range from
 something as simple as a Python script to something as complicated as an
 Operating System.
 
-
-
 ### **How Does This Relate To Gigo?**
 </br>
 
@@ -23,9 +20,8 @@ applications inside of workspaces. Some of these take the form of a
 "Base Docker Image" that contains an operating system and if needed a programming language for the project that is hosted in the workspace.
 
 ### **What About A Non-Base Docker Image?**
-
+</br>
 Not all Docker images used in gigo contain an operating system.  If a project  needs a service like a [database](https://hub.docker.com/r/pingcap/tidb) (or any service that runs alongside a project) a workspace config can include a Docker image that runs inside the Base Docker image, and it does not need to contain an operating system.
-
 
 </br>
 
