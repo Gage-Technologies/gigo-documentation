@@ -56,5 +56,5 @@ In this example, after we had asked Code Teacher to explain the "FollowUser" fun
 
 Code Teacher is still under development, which means that every new user to Gigo will get a free month of Code Teacher. Even after that month a user without a premium account will still be able to use Code Teacher! They will simply be limited to 3 Code Teacher messages per day.
 
-For more information on Premium Accounts, see the Get Pro Documentation.
+For more information on Premium Accounts, see the [Get Pro](../pro/pro_purchase_2.md) Documentation.
 
