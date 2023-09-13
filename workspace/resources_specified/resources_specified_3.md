@@ -30,7 +30,7 @@ resources:
 
 ### **Restrictions On Resources**
 
-There are two groups of restrictions on resources based on the type of user creating the workspace config. A free user can allocate up to 3 CPU cores, 4GB of Memory (RAM), and 10GB of Disk space. However, a premium user can allocate up to 6 CPU cores, 8GB or Memory (RAM), and 50GB of Disk Space.
+There are two groups of restrictions on resources based on the type of user creating the workspace config. A free user can allocate up to 3 CPU cores, 4GB of Memory (RAM), and 10GB of Disk space. However, a premium user can allocate up to 6 CPU cores, 8GB of Memory (RAM), and 50GB of Disk Space.
 
 </br>
 
