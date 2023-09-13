@@ -10,7 +10,7 @@
 ![extension_overview.png](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/extension_overview.png)
 
 ### **What is the Gigo Extension?**
-The Gigo Extension is designed to assist users interacting with the features of Gigo.  
+The Gigo Extension is designed to assist users in interacting with the features of Gigo.  
 The extension consists of six main components:
 - [Gigo Code Teacher](../extension/code_teacher/extension_code_teacher_2.md)
 - [Automatic Git Pushes and Commits](../extension/automatic_git/extension_automatic_git_3.md)
@@ -27,5 +27,5 @@ The Gigo extension is automatically installed in every workspace, however, a use
 
 ### **Does this conflict with other extensions?**
 
-The Gigo extension is designed to be minimally intrusive and compatible with other extensions a user might want to install. The chief design intention of the extension is to assist users with basic functionality of the Gigo system.
+The Gigo extension is designed to be minimally intrusive and compatible with other extensions a user might want to install. The chief design intention of the extension is to assist users with the basic functionality of the Gigo system.
 
