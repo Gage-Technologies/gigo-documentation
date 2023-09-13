@@ -4,7 +4,7 @@
 
 Reading documentation and READMEs is never fun. That doesn't mean it has to be difficult.
 
-The Gigo Extension comes packaged with a markdown renderer built into the sidebar of the extension. This allows users to view tutorials in real time while working on code.
+The Gigo Extension comes packaged with a markdown renderer built into the sidebar of the extension. This allows users to view tutorials in real-time while working on code.
 
 </br>
 
@@ -32,14 +32,14 @@ For more information on Project Types check the Project Overview Documentation.
 
 ### **Code Tours and Improved Tutorials**
 
-A [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) is an open source project that allows users to create/use guided code walk-throughs. To learn more about creating tutorials with Code Tour, see the Tutorial Creator Documentation.
+A [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) is an open-source project that allows users to create/use guided code walk-throughs. To learn more about creating tutorials with Code Tour, see the Tutorial Creator Documentation.
 
 
 Code Tours are integrated into the Gigo Tutorial system to allow users to improve tutorials. When a Code Tour is available for a tutorial a button labeled "Start Code Tour" will be rendered at the top of the tutorial as seen in the image below.
 
 ![extension_tutorial_viewer_4.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_4.svg)
 
-Clicking this button will start the Code Tour from the beginning and the user will be able to click through each tour step. There is another type of button that will be rendered inside of the tutorial that will be labeled "Interactive Step #" that will take the user tto the specified step number. This can be seen in the image above with the button labeled "Interactive Step 1".
+Clicking this button will start the Code Tour from the beginning and the user will be able to click through each tour step. There is another type of button that will be rendered inside of the tutorial that will be labeled "Interactive Step #" that will take the user to the specified step number. This can be seen in the image above with the button labeled "Interactive Step 1".
 
 </br>
 
@@ -47,14 +47,14 @@ When either of these buttons is clicked the user will be shown a specified line 
 
 ![extension_tutorial_viewer_5.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_5.svg)
 
-On that line number will be a description of what that code snippet does so that the user may follow alongside the tutorial inside the code.
+On that line, the number will be a description of what that code snippet does so that the user may follow the tutorial inside the code.
 
 
 </br>
 
 ### **Advanced Code Tours**
 
-Code Tours offer advanced features to assist users with learning programming.  In the bellow example, when the user clicks the "Interactive Step Button" something different happens.
+Code Tours offers advanced features to assist users with learning programming.  In the below example, when the user clicks the "Interactive Step Button" something different happens.
 
 ![extension_tutorial_viewer_6.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_viewer/extension_tutorial_viewer_6.svg)
 
