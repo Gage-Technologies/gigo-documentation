@@ -3,10 +3,10 @@
 
 </br>
 
-It's always annoying to push to git. It requires the user to stop what they are doing and write a commit message and push to a specific branch. It's a mess. Most programmer simply get adjusted to this and begin to get comfortable with it. And that is fine.
+It's always annoying to push to git. It requires the user to stop what they are doing write a commit message and push it to a specific branch. It's a mess. Most programmers simply get adjusted to this and begin to get comfortable with it. And that is fine.
 
 
-However, for people that would like a more streamlined experience, there is an alternative. The Gigo Extension provides an Automatic Git Control system that dynamically commits and pushes changes as user is interacting with a workspace. This creates cohesive performance that never interrupts a user experience and saves changes on the fly similar to services like Google Docs.
+However, for people who would like a more streamlined experience, there is an alternative. The Gigo Extension provides an Automatic Git Control system that dynamically commits and pushes changes as the user interacts with a workspace. This creates cohesive performance that never interrupts a user experience and saves changes on the fly similar to services like Google Docs.
 
 
 ### **How Does It Work?**
@@ -43,9 +43,9 @@ You can! Any user can disable Automatic Git Control by simply:
 
 ![extension_automatic_git_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/automatic_git/extension_automatic_git_4.svg)
 
-This will disable Automatic Git Control, however, users that disable Automatic Git Control must manage their own VCS within the workspace. If the user disables Automatic Git Control but do not push their changes, these changes will be lost after 24hrs when the workspace is deleted.
+This will disable Automatic Git Control, however, users that disable Automatic Git Control must manage their own VCS within the workspace. If the user disables Automatic Git Control but does not push their changes, these changes will be lost after 24hrs when the workspace is deleted.
 
-For more information on workspace lifespans see the [Workspace Overview Documentation](../workspace/workspace_overview_1.md) .
+For more information on workspace lifespans see the [Workspace Overview Documentation](../workspace/workspace_overview_1.md).
 
 
 
