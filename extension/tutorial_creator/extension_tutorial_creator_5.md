@@ -27,7 +27,7 @@ This interactive environment allows users to create beautiful tutorials using Ma
 
 [Markdown](https://www.markdownguide.org/basic-syntax/) is a markup language that allows more advanced formatting tools than a basic text editor. Markdown is typically used for documentation like READMEs (in fact the documentation you are reading right now is made in markdown).
 
-The hyperlink above covers some basics for making great looking Markdown documents. The Tutorial Creator studio is a great place to get more familiar with these concepts and begin making great documentation.
+The hyperlink above covers some basics for making great-looking Markdown documents. The Tutorial Creator studio is a great place to get more familiar with these concepts and begin making great documentation.
 
 </br>
 
@@ -73,13 +73,13 @@ Once you have filled all mandatory fields, click "Save". This will collapse the 
 
 </br>
 
-Once this is step is rendered to the user it will be displayed to a user as a button inside the tutorial that will link to the specified file/line. For more examples reference the Tutorial Viewer section on Code Tours.
+Once this step is rendered to the user it will be displayed to a user as a button inside the tutorial that will link to the specified file/line. For more examples reference the Tutorial Viewer section on Code Tours.
 
 ![extension_tutorial_creator_9.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_creator/extension_tutorial_creator_9.svg)
 
 </br>
 
-You can use this to conveniently link to code blocks inside tutorials. In the below example the step could link to this example function.
+You can use this to conveniently link to code blocks inside tutorials. In the below example, the step could link to this example function.
 
 ![extension_tutorial_creator_10.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/tutorial_creator/extension_tutorial_creator_10.svg)
 
