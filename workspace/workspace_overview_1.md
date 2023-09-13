@@ -42,7 +42,7 @@ following:
 
 >The workspace config is based on a [*`yaml`*](https://www.redhat.com/en/topics/automation/what-is-yaml) format.
 
-A workspace config instructs the *Gigo Workspace System* to setup up the
+A workspace config instructs the *Gigo Workspace System* to set up the
 environment for a given project. This then allows the user to interact
 with a fully customized environment for the project they are interacting
 with. Pretty cool right?
@@ -59,7 +59,7 @@ with. Pretty cool right?
 
 Workspaces are inter-actable through a server-side version of *Vscode*
 called [**code-server**](https://github.com/coder/code-server#readme).
-This allows a freedom to customize the workspace experience to the users
+This allows the freedom to customize the workspace experience to the user's
 specific needs as all vscode extensions are natively supported inside
 workspaces. So feel free to customize!
 
@@ -70,7 +70,7 @@ workspaces. So feel free to customize!
 
 ### **Where Did My Stuff Go?**
 
-Workspaces are stored for 24hrs after you last login to them. After 24hrs a workspace will still be available and can be launched but all code or environment changes that are not stored (committed and pushed) to a VCS (typically git) will be deleted. This also applies to all actions performed in a terminal inside the workspaces. That includes packages installed and file operations. This is why workspace configs are important as it provides a persistent state to re-launch the workspaces in.
+Workspaces are stored for 24 hours after your last log in to them. After 24hrs a workspace will still be available and can be launched but all code or environment changes that are not stored (committed and pushed) to a VCS (typically git) will be deleted. This also applies to all actions performed in a terminal inside the workspaces. That includes packages installed and file operations. This is why workspace configs are important as they provide a persistent state to re-launch the workspaces in.
 >The Gigo Extension will automatically push all code/files within the base directory in the workspace. Users can choose to not use this, however, they must manage their VCS themselves. For more information, reference the Gigo  Extension Documentation
 
 
@@ -82,14 +82,14 @@ Workspaces are stored for 24hrs after you last login to them. After 24hrs a work
 
 </br>
 
-Not all workspace configs are created equal. Some are custom bult
+Not all workspace configs are created equal. Some are custom-built
 for an individual purpose and may only be useful for a specific project.
 However, some are very applicable to a wide variety of specific use
 cases.
 
 </br>
 
-For cases when a user is feels they could better the platform with their
+For cases when a user feels they could better the platform with their
 hard work. Gigo offers the option to publish workspace configurations as
 a **Public Template** so that other users may create projects with their
 configs. Published configurations can be searched and used when creating
@@ -99,13 +99,13 @@ a project
 
 ![workspace_config.png](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/workspace/workspace_config.png)
 
-<sub> *by selecting Create Public Template after choosing custom a user
+<sub> *by selecting Create Public Template after choosing Custom a user
 <sub>can publish their configuration
 
 </br>
 
 By default, all workspace configs are **not** published and can only be
 used by users making attempts on the project they were built for. If you
-feel that your up to the task, Publish It!
+feel that you're up to the task, Publish It!
 
 
