@@ -16,8 +16,8 @@
 >![pro_purchase_3.svg.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/pro/pro_purchase_3.svg)
 >
 >
->Memberships are billed monthly and can be cancelled any time by simply clicking on their avatar and navigating to "Account Settings". The simply click "Membership" to manage all things membership related.
+>Memberships are billed monthly and can be canceled at any time by simply clicking on their avatar and navigating to "Account Settings". Simply click "Membership" to manage all things membership-related.
 >
 >![pro_purchase_4.svg.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/pro/pro_purchase_4.svg)
 >
->Here you can cancel membership, change payment methods, and view upcoming and previous payments.
+>Here you can cancel your membership, change payment methods, and view upcoming and previous payments.
