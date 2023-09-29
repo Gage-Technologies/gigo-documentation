@@ -1,7 +1,7 @@
 # Tutorial Creator
 >#### Providing Better Projects
 
-The Gigo Extension provides a comprehensive way to improve projects for other users by allowing them to create tutorials within their workspace.
+The Gigo Extension provides a comprehensive way to improve projects for other users by allowing them to create tutorials within their DevSpace.
 
 </br>
 

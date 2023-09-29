@@ -1,10 +1,10 @@
-# Default Workspace Config Example
+# Default DevSpace Config Example
 >How is the default setup?
 
 
 ### **The Basics**
 
-The default workspace config sets up  a basic ubuntu environment with nothing else. There are comments for a config running redis and python to demonstrate to a user the format of the config.
+The default DevSpace config sets up  a basic ubuntu environment with nothing else. There are comments for a config running redis and python to demonstrate to a user the format of the config.
 It also allocates the maximum resources a free user is allowed to allocate.
 
 

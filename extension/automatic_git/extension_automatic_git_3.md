@@ -6,7 +6,7 @@
 It's always annoying to push to git. It requires the user to stop what they are doing write a commit message and push it to a specific branch. It's a mess. Most programmers simply get adjusted to this and begin to get comfortable with it. And that is fine.
 
 
-However, for people who would like a more streamlined experience, there is an alternative. The Gigo Extension provides an Automatic Git Control system that dynamically commits and pushes changes as the user interacts with a workspace. This creates cohesive performance that never interrupts a user experience and saves changes on the fly similar to services like Google Docs.
+However, for people who would like a more streamlined experience, there is an alternative. The Gigo Extension provides an Automatic Git Control system that dynamically commits and pushes changes as the user interacts with a DevSpace. This creates cohesive performance that never interrupts a user experience and saves changes on the fly similar to services like Google Docs.
 
 
 ### **How Does It Work?**
@@ -39,13 +39,13 @@ Everyone! The Automatic Git Control comes standard for every user with the Gigo 
 ### **What If I Want To Use My Own VCS?**
 
 You can! Any user can disable Automatic Git Control by simply:
-> clicking on their profile > clicking Workspace Settings > then un-checking "Run On Start".
+> clicking on their profile > clicking DevSpace Settings > then un-checking "Run On Start".
 
 ![extension_automatic_git_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/automatic_git/extension_automatic_git_4.svg)
 
-This will disable Automatic Git Control, however, users that disable Automatic Git Control must manage their own VCS within the workspace. If the user disables Automatic Git Control but does not push their changes, these changes will be lost after 24hrs when the workspace is deleted.
+This will disable Automatic Git Control, however, users that disable Automatic Git Control must manage their own VCS within the DevSpace. If the user disables Automatic Git Control but does not push their changes, these changes will be lost after 24hrs when the DevSpace is deleted.
 
-For more information on workspace lifespans see the [Workspace Overview Documentation](../workspace/workspace_overview_1.md).
+For more information on DevSpace lifespans see the [Workspace Overview Documentation](../workspace/workspace_overview_1.md).
 
 
 

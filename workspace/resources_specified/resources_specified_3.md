@@ -1,7 +1,7 @@
 # Resources Specified
 >How Much and How Little?
 
-The *Resource Block* is the section of the workspace config that specifies the resource allocation for a workspace. Users can allocate specific resources based on what they might need for a given project.
+The *Resource Block* is the section of the DevSpace config that specifies the resource allocation for a DevSpace. Users can allocate specific resources based on what they might need for a given project.
 
 
 ### **Resource Block Parameters**
@@ -30,9 +30,9 @@ resources:
 
 ### **Restrictions On Resources**
 
-There are two groups of restrictions on resources based on the type of user creating the workspace config. A free user can allocate up to 3 CPU cores, 4GB of Memory (RAM), and 10GB of Disk space. However, a premium user can allocate up to 6 CPU cores, 8GB of Memory (RAM), and 50GB of Disk Space.
+There are two groups of restrictions on resources based on the type of user creating the DevSpace config. A free user can allocate up to 3 CPU cores, 4GB of Memory (RAM), and 10GB of Disk space. However, a premium user can allocate up to 6 CPU cores, 8GB of Memory (RAM), and 50GB of Disk Space.
 
 </br>
 
-A non-premium user can still use a workspace config that has resources allocated for a premium user, however, the workspace config will reduce down to the max allocatable resources for the free user (3cpu, 4mem, 10disk).
+A non-premium user can still use a DevSpace config that has resources allocated for a premium user, however, the DevSpace config will reduce down to the max allocatable resources for the free user (3cpu, 4mem, 10disk).
 

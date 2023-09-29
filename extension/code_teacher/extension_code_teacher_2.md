@@ -1,13 +1,13 @@
 # Gigo Code Teacher
 >#### Your own personal tutor.
 
-The Gigo Code Teacher is a personal tutor designed to help users with all things programming. It seamlessly integrates with all code a user writes or interacts with inside the workspace.
+The Gigo Code Teacher is a personal tutor designed to help users with all things programming. It seamlessly integrates with all code a user writes or interacts with inside the DevSpace.
 
 </br>
 
 ### **What makes Gigo Code Teacher Different?**
 
-Code Teacher integrates with the user's workspace and is context-aware. This means that when the user has a question about their project, Code Teacher functions like a tutor, reading their code with them.
+Code Teacher integrates with the user's DevSpace and is context-aware. This means that when the user has a question about their project, Code Teacher functions like a tutor, reading their code with them.
 
 This is contrary to the way in which normal AI (Artificial Intelligence) driven code tutors work. Typically, when using an online AI tutor, a user must manually input all their code into the system and then ask the system for help. This leads to less accurate results since users cannot provide all relevant information.
 
@@ -36,7 +36,7 @@ Stuck on a problem? Ask Code Teacher! It's simple really. Code Teacher has knowl
 
 ### **Context-Based Conversations**
 
-When a user writes code in a workspace, this code is then fed (in the background) into Code Teacher. This allows Code Teacher to be "context-aware" of how the user writes code and what they are working on.
+When a user writes code in a DevSpace, this code is then fed (in the background) into Code Teacher. This allows Code Teacher to be "context-aware" of how the user writes code and what they are working on.
 
 
 ![extension_code_teacher_2.svg](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/code_teacher/extension_code_teacher_3.svg)

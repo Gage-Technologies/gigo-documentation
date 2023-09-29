@@ -14,7 +14,7 @@ take advantage of.
 
 
 >These features include:
->- **Advanced Workspace Configuration**
+>- **Advanced DevSpace Configuration**
 >- **Gigo Extension Interaction**
 >- **Tutorial Building and Editing**
 >- **Code Teacher Usage**

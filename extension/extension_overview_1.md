@@ -5,7 +5,7 @@
 
 ### **What is Vscode?**
 
-[Visual Studio Code](https://code.visualstudio.com/) is an open source *IDE* (Integrated Development Environment) that is developed by Microsoft. Vscode is the industry standard development environment for programmers and offers a very customizable interface. When a user launches a workspace on Gigo, they will be thrust into an in-browser version of Vscode known as [code-server](https://github.com/coder/code-server). Both the Gigo workspaces and extension run inside code-server.
+[Visual Studio Code](https://code.visualstudio.com/) is an open source *IDE* (Integrated Development Environment) that is developed by Microsoft. Vscode is the industry standard development environment for programmers and offers a very customizable interface. When a user launches a DevSpace on Gigo, they will be thrust into an in-browser version of Vscode known as [code-server](https://github.com/coder/code-server). Both the Gigo workspaces and extension run inside code-server.
 
 ![extension_overview.png](https://raw.githubusercontent.com/Gage-Technologies/gigo-documentation/master/extension/extension_overview.png)
 
@@ -20,7 +20,7 @@ The extension consists of six main components:
 
 </br>
 
-The Gigo extension is automatically installed in every workspace, however, a user is not required to use all features of the extension. Some of these features a user can disable in the *User Settings* on the Gigo platform. In particular, the Automatic Git system can be completely disabled if a user wishes to manage their own Git tree.
+The Gigo extension is automatically installed in every DevSpace, however, a user is not required to use all features of the extension. Some of these features a user can disable in the *User Settings* on the Gigo platform. In particular, the Automatic Git system can be completely disabled if a user wishes to manage their own Git tree.
 
 
 </br>

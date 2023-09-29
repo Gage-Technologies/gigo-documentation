@@ -4,7 +4,7 @@
 
 ### **When To Add Additional Docker Services**
 
-The workspace config provides an additional field for optional docker services that are not a part of the base image. This is useful when a user needs to run any external service such as a database like [TiDB](https://hub.docker.com/r/pingcap/tidb) or a data pipeline like [Kafka](https://hub.docker.com/r/bitnami/kafka/).
+The DevSpace config provides an additional field for optional docker services that are not a part of the base image. This is useful when a user needs to run any external service such as a database like [TiDB](https://hub.docker.com/r/pingcap/tidb) or a data pipeline like [Kafka](https://hub.docker.com/r/bitnami/kafka/).
 The `containers` field uses the [*docker-compose*](https://docs.docker.com/compose/compose-file/compose-file-v3/) format so that users may have some familiarity with creating specified containers.
 
 The following is an example of using [Revel](https://revel.github.io/) and [PostgresSQL](https://www.postgresql.org/):

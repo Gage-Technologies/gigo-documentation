@@ -12,7 +12,7 @@ These features include:
 - Increased Storage Allocation for Workspaces (50GB)
 - Private Workspaces
 - 2 Extra Streak Freezes Per Week
-- The Gigo Premium Workspace Theme
+- The Gigo Premium DevSpace Theme
 
 A Gigo Pro membership is designed for users of all skill levels.  With unrestricted access to Code Teacher, new programmers can use it to ask any questions they have about programming and even get responses based on the specific project they are currently working on. Experienced programmers can use Code Teacher to expedite the programming process for greater efficiency and a less monotonous experience.
 
